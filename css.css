@@ -1,0 +1,16 @@
+body {background-color: #1a060e;}
+h1   {
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+
+p    {color: red;}
+.red {
+    color: rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.storytelling_tabs {
+    color: rgb(249, 252, 252);
+
+}
+
