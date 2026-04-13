@@ -1,0 +1,128 @@
+body {background-color: #1a060e;}
+h1   {
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+body {background-color: #1a060e;}
+h2   {
+    color: rgb(255, 255, 255);
+    text-align: right;
+    margin-right: left;
+}
+body {background-color: #1a060e;}
+h3   {
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+h4   {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-right: left;
+}
+h5   {
+    color: rgb(255, 255, 255);
+    text-align: right;
+}
+
+p    {color: rgb(255, 255, 255);}
+.red {
+    color: rgb(255, 255, 255);
+    font-family:'optima', 'Arial Narrow', Arial, sans-serif;
+    font-size: 400%;
+}
+.storytelling_tabs {
+    color: rgb(249, 252, 252);
+
+    
+}
+.cf:before, .cf:after {
+    content: " ";
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
+
+.cf {
+    *zoom: 1;
+}
+
+.db {
+    display: block;
+}
+
+.fl {
+    float: left;
+    _display: inline;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+
+
+.black {
+    color: #000;
+}
+
+.pa2 {
+    padding: .5rem;
+}
+
+.pv2 {
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+
+.ph2 {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+.grow {
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform .25s ease-out;
+}
+
+.grow:hover, .grow:focus {
+    transform: scale(1.05);
+}
+
+.grow:active {
+    transform: scale(.9);
+}
+
+@media screen and (min-width: 30em) {
+    .w-25-ns {
+        width: 25%;
+    }
+
+    .w-50-ns {
+        width: 50%;
+    }
+}
+    .paranormal_1 {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;  
+    }
+.paranormal_1 img {
+    max-width: 112%; 
+    max-height: 112%; 
+    justify-content: center;
+}
+.center {
+    text-align: center;
+}
+    
